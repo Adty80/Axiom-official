@@ -1,0 +1,58 @@
+.nav-link{
+    color: #0A3043;
+}
+.nav-link:hover{
+    color: #FF0000;
+}
+.nav-link:active{
+    color: #FF0000;
+}
+.navbar-color{
+    background-color: #fff;
+}
+.title{
+    color: #FF0000;
+}
+.drop-down:hover{
+    color: #00B4FF;
+}
+
+.tech-support{
+    background: linear-gradient(45deg ,#fcfeff,rgba(26, 56, 113, 0.4));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 20px 10px 40px ;
+    margin-top: 8vmax;
+}
+.tech-btn{
+    border: solid rgba(18, 18, 18,0.7) 2px;
+    box-shadow: 0 10px 40px black;
+    
+}
+
+.skills{
+    box-shadow: 10px 20px 40px black;
+}
+
+.social-media-icons {
+    
+   
+    color: #000;
+}
+
+.icon {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.icon:hover {
+    transform: translateY(-1rem);
+}
+
+.fab:hover{
+    background-color: #FF0000;
+    cursor: pointer;
+}
